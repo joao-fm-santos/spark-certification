@@ -25,49 +25,49 @@ Candidates are expected to be familiar with the following architectural componen
 - Partitions
 ### Spark Execution
 Candidates are expected to be familiar with Spark’s execution model and the breakdown between the different elements:
-	• Jobs
-	• Stages
-	• Tasks
+- Jobs
+- Stages
+- Tasks
 ### Spark Concepts
 Candidates are expected to be familiar with the following concepts:
-	• Caching
-	• Shuffling
-	• Partitioning
-	• Wide vs. Narrow Transformations
-	• DataFrame Transformations vs. Actions vs. Operations
-	• High-level Cluster Configuration
+- Caching
+- Shuffling
+- Partitioning
+- Wide vs. Narrow Transformations
+- DataFrame Transformations vs. Actions vs. Operations
+- High-level Cluster Configuration
 ### DataFrames API
 Candidates are expected to have a command of the following APIs.
 ### SparkContext
 Candidates are expected to know how to use the SparkContext to control basic configuration settings such as spark.sql.shuffle.partitions.
 ### SparkSession
 Candidates are expected to know how to:
-	• Create a DataFrame/Dataset from a collection (e.g. list or set)
-	• Create a DataFrame for a range of numbers
-	• Access the DataFrameReaders
-	• Register User Defined Functions (UDFs).
+- Create a DataFrame/Dataset from a collection (e.g. list or set)
+- Create a DataFrame for a range of numbers
+- Access the DataFrameReaders
+- Register User Defined Functions (UDFs).
 ### DataFrameReader
 Candidates are expected to know how to:
-	• Read data for the “core” data formats (CSV, JSON, JDBC, ORC, Parquet, text and tables)
-	• How to configure options for specific formats
-	• How to read data from non-core formats using format() and load()
-	• How to specify a DDL-formatted schema
-	• How to construct and specify a schema using the StructType classes
+- Read data for the “core” data formats (CSV, JSON, JDBC, ORC, Parquet, text and tables)
+- How to configure options for specific formats
+- How to read data from non-core formats using format() and load()
+- How to specify a DDL-formatted schema
+- How to construct and specify a schema using the StructType classes
 ### DataFrameWriter
 Candidates are expected to know how to:
-	• Write data to the “core” data formats (csv, json, jdbc, orc, parquet, text and tables)
-	• Overwriting existing files
-	• How to configure options for specific formats
-	• How to write a data source to 1 single file or N separate files
-	• How to write partitioned data
-	• How to bucket data by a given set of columns
+- Write data to the “core” data formats (csv, json, jdbc, orc, parquet, text and tables)
+- Overwriting existing files
+-  How to configure options for specific formats
+- How to write a data source to 1 single file or N separate files
+- How to write partitioned data
+- How to bucket data by a given set of columns
 ### DataFrame
-	• Have a working understanding of every action such as take(), collect(), and foreach()
-	• Have a working understanding of the various transformations and how they work such as producing a distinct set, filtering data, repartitioning and coalescing, performing joins and unions as well as producing aggregates
-	• Know how to cache data, specifically to disk, memory or both
-	• Know how to uncache previously cached data
-	• Converting a DataFrame to a global or temp view.
-	• Applying hints
+- Have a working understanding of every action such as take(), collect(), and foreach()
+- Have a working understanding of the various transformations and how they work such as producing a distinct set, filtering data, repartitioning and coalescing, performing joins and unions as well as producing aggregates
+- Know how to cache data, specifically to disk, memory or both
+- Know how to uncache previously cached data
+- Converting a DataFrame to a global or temp view.
+- Applying hints
 ### Row & Column
 Candidates are expected to know how to work with row and columns to successfully extract data from a DataFrame
 ### Spark SQL Functions
