@@ -8,7 +8,8 @@ Repository for Spark Certifications training
   - Fazer os exs. num Notebook de Databricks
   - Ir ao GitHub deles https://github.com/databricks/Spark-The-Definitive-Guide buscar os datasets para os exs. e fazer upload para o DBFS
 
-# New Exam Objectives (CRT020 - Databricks Certified Associate Developer for Apache Spark 2.4 with Python 3):
+# CRT020 - Databricks Certified Associate Developer for Apache Spark 2.4 with Python 3)
+# Exam Objectives:
 
 ## Description
 The test is approximately 180 minutes with a series of randomly selected, multiple-choice questions, and another set of randomly selected coding challenges. Implementation of the coding challenges is completed within the Databricks product. Candidates are advised to become familiar with our online programming environment by signing up for the free version of Databricks, the Community Edition. Memorization of the APIs is not required, and access to the Programming and API docs will be made available during the exam.
@@ -18,10 +19,10 @@ None
 ## Expectation of Knowledge
 ### Spark Architecture Components
 Candidates are expected to be familiar with the following architectural components and their relationship to each other:
-	• Driver
-	• Executor
-	• Cores/Slots/Threads
-	• Partitions
+- Driver
+- Executor
+- Cores/Slots/Threads
+- Partitions
 ### Spark Execution
 Candidates are expected to be familiar with Spark’s execution model and the breakdown between the different elements:
 	• Jobs
