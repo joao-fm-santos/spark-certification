@@ -4,7 +4,7 @@ Repository for Spark Certifications training
 # Suggestion:
   - Ler o Spark - The Definitive Guide: Pt. I e Pt. II.
   - Ler c/ menos atenção a Pt. IV e VII
-  - AS OUTRAS PARTE NÃO SAIEM NESTE NOVO EXAME
+  - AS OUTRAS PARTES NÃO SAIEM NESTE NOVO EXAME
   - Ir ao GitHub deles https://github.com/databricks/Spark-The-Definitive-Guide buscar os data sets para os exs. e fazer upload para o DBFS
   - Fazer os exs. num Notebook de Databricks
 
