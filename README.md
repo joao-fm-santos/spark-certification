@@ -72,16 +72,16 @@ Candidates are expected to know how to:
 Candidates are expected to know how to work with row and columns to successfully extract data from a DataFrame
 ### Spark SQL Functions
 When instructed what to do, candidates are expected to be able to employ the multitude of Spark SQL functions. Examples include, but are not limited to:
-	• Aggregate functions: getting the first or last item from an array or computing the min and max values of a column.
-	• Collection functions: testing if an array contains a value, exploding or flattening data.
-	• Date time functions: parsing strings into timestamps or formatting timestamps into strings
-	• Math functions: computing the cosign, floor or log of a number
-	• Misc functions: converting a value to crc32, md5, sha1 or sha2
-	• Non-aggregate functions: creating an array, testing if a column is null, not-null, nan, etc
-	• Sorting functions: sorting data in descending order, ascending order, and sorting with proper null handling
-	• String functions: applying a provided regular expression, trimming string and extracting substrings.
-	• UDF functions: employing a UDF function.
-	• Window functions: computing the rank or dense rank.
+- Aggregate functions: getting the first or last item from an array or computing the min and max values of a column.
+- Collection functions: testing if an array contains a value, exploding or flattening data.
+- Date time functions: parsing strings into timestamps or formatting timestamps into strings
+- Math functions: computing the cosign, floor or log of a number
+- Misc functions: converting a value to crc32, md5, sha1 or sha2
+- Non-aggregate functions: creating an array, testing if a column is null, not-null, nan, etc
+- Sorting functions: sorting data in descending order, ascending order, and sorting with proper null handling
+- String functions: applying a provided regular expression, trimming string and extracting substrings.
+- UDF functions: employing a UDF function.
+- Window functions: computing the rank or dense rank.
 
 # Link to other Repos with info.:
 
