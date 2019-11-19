@@ -88,3 +88,5 @@ When instructed what to do, candidates are expected to be able to employ the mul
 https://github.com/vivek-bombatkar/Spark-with-Python---My-learning-notes-
 
 https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3249544772526824/521888783067570/7123846766950497/latest.html
